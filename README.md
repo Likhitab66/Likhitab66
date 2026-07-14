@@ -23,6 +23,7 @@ I work on product and quality analytics for live sports streaming at Amazon Prim
 
 | Project | Description | Tech |
 | --- | --- | --- |
+| [streamsleuth-agentic-rca](https://github.com/Likhitab66/streamsleuth-agentic-rca) | Agentic on-call analyst for live-stream incidents: event-aware KPI anomaly detection, a bounded planning-loop investigation agent over a governed DuckDB semantic layer, evidence-cited RCA memos, and root-cause accuracy measured against injected ground truth across a 33-scenario eval battery. | `Python` `DuckDB` `scikit-learn` `Agentic AI` |
 | [retail-sales-inventory-analytics](https://github.com/Likhitab66/retail-sales-inventory-analytics) | End-to-end retail analytics pipeline: a velocity-weighted in-stock metric (WISP), ML stockout-risk scoring, demand-forecast backtesting, an interactive Plotly dashboard, and Power BI star-schema exports. | `Python` `pandas` `scikit-learn` `Plotly` `Power BI` |
 | [heor-rag-llm](https://github.com/Likhitab66/heor-rag-llm) | Retrieval-augmented generation pipeline for health economics & outcomes research (HEOR): ChromaDB semantic retrieval, Llama 3 generation via Ollama, retrieval evaluation (hit-rate/MRR), and a hallucination/grounding checker. | `Python` `ChromaDB` `Ollama` `Llama 3` |
 | [fhir-patient-journey-analytics](https://github.com/Likhitab66/fhir-patient-journey-analytics) | Patient-journey analytics over FHIR R4 bundles: treatment-pattern mining, a cohort-similarity therapy recommendation prototype, and HCP/HCO referral-network analysis. | `Python` `pandas` `networkx` `FHIR` |
