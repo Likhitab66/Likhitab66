@@ -23,9 +23,9 @@ I work on product and quality analytics for live sports streaming at Amazon Prim
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| [retail-sales-inventory-analytics](https://github.com/Likhitab66/retail-sales-inventory-analytics) | End-to-end retail analytics pipeline: sales trends, inventory turnover, and stockout risk analysis with an interactive KPI dashboard. | `SQL` `Python` `pandas` `Plotly` `Tableau` |
-| [heor-rag-llm](https://github.com/Likhitab66/heor-rag-llm) | Retrieval-augmented generation system for health economics & outcomes research (HEOR) literature — semantic search and grounded Q&A over clinical publications. | `Python` `LangChain` `ChromaDB` `LLM` |
-| [fhir-patient-journey-analytics](https://github.com/Likhitab66/fhir-patient-journey-analytics) | Patient journey analytics on FHIR healthcare data: cohort building, care-pathway funnels, and outcome metrics from standardized EHR resources. | `Python` `SQL` `FHIR` `scikit-learn` |
+| [retail-sales-inventory-analytics](https://github.com/Likhitab66/retail-sales-inventory-analytics) | End-to-end retail analytics pipeline: a velocity-weighted in-stock metric (WISP), ML stockout-risk scoring, demand-forecast backtesting, an interactive Plotly dashboard, and Power BI star-schema exports. | `Python` `pandas` `scikit-learn` `Plotly` `Power BI` |
+| [heor-rag-llm](https://github.com/Likhitab66/heor-rag-llm) | Retrieval-augmented generation pipeline for health economics & outcomes research (HEOR): ChromaDB semantic retrieval, Llama 3 generation via Ollama, retrieval evaluation (hit-rate/MRR), and a hallucination/grounding checker. | `Python` `ChromaDB` `Ollama` `Llama 3` |
+| [fhir-patient-journey-analytics](https://github.com/Likhitab66/fhir-patient-journey-analytics) | Patient-journey analytics over FHIR R4 bundles: treatment-pattern mining, a cohort-similarity therapy recommendation prototype, and HCP/HCO referral-network analysis. | `Python` `pandas` `networkx` `FHIR` |
 
 ## Reach me
 
